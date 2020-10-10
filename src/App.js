@@ -6,8 +6,8 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link,
-  NavLink
+  
+  
 } from "react-router-dom";
 import Peliculas from "./components/Peliculas";
 import Series from "./components/Series";
@@ -15,7 +15,7 @@ import Animes from "./components/Animes";
 import Reproductor from "./components/Reproductor";
 import Plantilla from "./components/Plantilla";
 import Pruebas from "./components/Pruebas";
-import $ from "jquery";
+
 import Footer from './components/Footer';
 import ReactTooltip from 'react-tooltip';
 

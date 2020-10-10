@@ -30,7 +30,7 @@ class Animes extends Component{
                 <section className="col-md-9 cards-anime d-flex img-fluid">
               < div className="card cards-anime" >
               <NavLink to="./Reproductor">
-                    <img className="card-img-top zoom size-img " src={anime} data-tip data-for="anime" alt="Card image cap"></img>
+                    <img className="card-img-top zoom size-img " src={anime} data-tip data-for="anime" alt="anime"></img>
                     </NavLink>
                        <div className="card-body">
                       <p className="card-text">Some quick example text to content.</p>
@@ -39,7 +39,7 @@ class Animes extends Component{
                    
                    </div>
                    < div className="card cards-anime" >
-                    <img className="card-img-top zoom img-fluid" src={blue} data-tip data-for="anime" alt="Card image cap"></img>
+                    <img className="card-img-top zoom img-fluid" src={blue} data-tip data-for="anime" alt="anime" ></img>
                        <div className="card-body">
                       <p className="card-text">Some quick example text to content.</p>
                     
@@ -47,7 +47,7 @@ class Animes extends Component{
                    
                    </div> 
                    < div className="card cards-anime " >
-                    <img className="card-img-top zoom" src={naru} data-tip data-for="anime" alt="Card image cap"></img>
+                    <img className="card-img-top zoom" src={naru} data-tip data-for="anime" ></img>
                        <div className="card-body">
                       <p className="card-text">Some quick example text to content.</p>
                     
@@ -55,7 +55,7 @@ class Animes extends Component{
                    
                    </div> 
                    < div className="card cards-anime" >
-                    <img className="card-img-top zoom" src={one} data-tip data-for="anime" alt="Card image cap"></img>
+                    <img className="card-img-top zoom" src={one} data-tip data-for="anime" ></img>
                        <div className="card-body">
                       <p className="card-text">Some quick example text content.</p>
                     
@@ -63,7 +63,7 @@ class Animes extends Component{
                    
                    </div> 
                    < div className="card cards-anime" >
-                    <img className="card-img-top zoom" src={fate} data-tip data-for="anime" alt="Card image cap"></img>
+                    <img className="card-img-top zoom" src={fate} data-tip data-for="anime"></img>
                        <div className="card-body">
                       <p className="card-text">Some quick example text content.</p>
                     
@@ -71,7 +71,7 @@ class Animes extends Component{
                    
                    </div> 
                    < div className="card cards-anime" >
-                    <img className="card-img-top zoom" src={fatell} data-tip data-for="anime" alt="Card image cap"></img>
+                    <img className="card-img-top zoom" src={fatell} data-tip data-for="anime" ></img>
                        <div className="card-body">
                       <p className="card-text">Some quick example text content.</p>
                     
@@ -79,7 +79,7 @@ class Animes extends Component{
                    
                    </div> 
                    < div className="card cards-anime" >
-                    <img className="card-img-top zoom" src={full} data-tip data-for="anime" alt="Card image cap"></img>
+                    <img className="card-img-top zoom" src={full} data-tip data-for="anime"></img>
                        <div className="card-body">
                       <p className="card-text">Some quick example text content.</p>
                     
@@ -87,7 +87,7 @@ class Animes extends Component{
                    
                    </div> 
                    < div className="card cards-anime" >
-                    <img className="card-img-top zoom" src={zod} data-tip data-for="anime" alt="Card image cap"></img>
+                    <img className="card-img-top zoom" src={zod} data-tip data-for="anime"></img>
                        <div className="card-body">
                       <p className="card-text">Some quick example text content.</p>
                     
@@ -95,7 +95,7 @@ class Animes extends Component{
                    
                    </div> 
                    < div className="card cards-anime" >
-                    <img className="card-img-top zoom" src={agua} data-tip data-for="anime" alt="Card image cap"></img>
+                    <img className="card-img-top zoom" src={agua} data-tip data-for="anime"></img>
                        <div className="card-body">
                       <p className="card-text">Some quick example text content.</p>
                     

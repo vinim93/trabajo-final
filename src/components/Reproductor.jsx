@@ -5,15 +5,8 @@ import ReactPlayer from 'react-player';
 import avengers from "../avengers.png";
 //import jquery from "jquery";
 //import $ from "jquery";
-import * as $ from "jquery";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link,
-  NavLink
-} from 'react-router-dom';
- 
+
+
 import anime from '../anime.webp';
 class Reproductor extends Component{
     render(){
