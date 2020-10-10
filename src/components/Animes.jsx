@@ -26,7 +26,8 @@ import hell from '../hell.jpg';
 class Animes extends Component{
     render(){
         return (
-            <div className="container ">
+            <div className="container clearfix ">
+               <div className="row">
                 <section className="col-md-9 cards-anime d-flex img-fluid">
               < div className="card cards-anime" >
               <NavLink to="./Reproductor">
@@ -128,6 +129,7 @@ class Animes extends Component{
                    </div> 
 
                    </section>
+                   </div>
             </div>
         )
     }
