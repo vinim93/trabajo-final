@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/vinim93/trabajo-final.git/static/css/main.f4ddb60f.chunk.css",
+    "main.js": "/vinim93/trabajo-final.git/static/js/main.8f361366.chunk.js",
+    "main.js.map": "/vinim93/trabajo-final.git/static/js/main.8f361366.chunk.js.map",
+    "runtime-main.js": "/vinim93/trabajo-final.git/static/js/runtime-main.f19866bb.js",
+    "runtime-main.js.map": "/vinim93/trabajo-final.git/static/js/runtime-main.f19866bb.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/vinim93/trabajo-final.git/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b1148353.chunk.js": "/vinim93/trabajo-final.git/static/js/2.b1148353.chunk.js",
+    "static/js/2.b1148353.chunk.js.map": "/vinim93/trabajo-final.git/static/js/2.b1148353.chunk.js.map",
+    "index.html": "/vinim93/trabajo-final.git/index.html",
+    "precache-manifest.9c2d6ffb104050d1cd1fa0ec725806b6.js": "/vinim93/trabajo-final.git/precache-manifest.9c2d6ffb104050d1cd1fa0ec725806b6.js",
+    "service-worker.js": "/vinim93/trabajo-final.git/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/vinim93/trabajo-final.git/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.f4ddb60f.chunk.css.map": "/vinim93/trabajo-final.git/static/css/main.f4ddb60f.chunk.css.map",
+    "static/js/2.b1148353.chunk.js.LICENSE.txt": "/vinim93/trabajo-final.git/static/js/2.b1148353.chunk.js.LICENSE.txt",
+    "static/media/among.webp": "/vinim93/trabajo-final.git/static/media/among.c6f1884b.webp",
+    "static/media/anime.webp": "/vinim93/trabajo-final.git/static/media/anime.a026b634.webp",
+    "static/media/aven.webp": "/vinim93/trabajo-final.git/static/media/aven.4132117b.webp",
+    "static/media/avengers.png": "/vinim93/trabajo-final.git/static/media/avengers.787d44e7.png",
+    "static/media/facebook.webp": "/vinim93/trabajo-final.git/static/media/facebook.96d311cd.webp",
+    "static/media/App.css": "/vinim93/trabajo-final.git/static/media/fondo.c8bcf785.jpg",
+    "static/media/it1.webp": "/vinim93/trabajo-final.git/static/media/it1.57cc2e7d.webp",
+    "static/media/ready.webp": "/vinim93/trabajo-final.git/static/media/ready.7f40a6f6.webp",
+    "static/media/witcher.webp": "/vinim93/trabajo-final.git/static/media/witcher.5f2f0ef2.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f19866bb.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b1148353.chunk.js",
+    "static/css/main.f4ddb60f.chunk.css",
+    "static/js/main.8f361366.chunk.js"
+  ]
+}
