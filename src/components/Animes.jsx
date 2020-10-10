@@ -27,10 +27,10 @@ class Animes extends Component{
     render(){
         return (
             <div className="container clearfix ">
-               <div className="row">
+      <div className="row">
                 <section className="col-md-9 cards-anime d-flex img-fluid">
-              < div className="card cards-anime" >
-              <NavLink to="./Reproductor">
+              <                div className="card cards-anime" >
+                             <NavLink to="./Reproductor">
                     <img className="card-img-top zoom size-img " src={anime} data-tip data-for="anime" alt="anime"></img>
                     </NavLink>
                        <div className="card-body">
