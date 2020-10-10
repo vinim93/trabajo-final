@@ -33,7 +33,7 @@ class Animes extends Component{
                     <img className="card-img-top zoom size-img " src={anime} data-tip data-for="anime" alt="anime"></img>
                     </NavLink>
                        <div className="card-body">
-                      <p className="card-text">Some quick example text to content.</p>
+                      <p className="card-text">Some quick example text to contents.</p>
                     
                    </div>
                    
